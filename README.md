@@ -4,7 +4,7 @@ This is a machine learning web application that predicts the **estimated salary*
 
 ---
 
-🔧 Features
+ Features
 
 - Predicts salary using a **Random Forest Regressor**.
 - Input interface built using **Streamlit**.
@@ -14,11 +14,9 @@ This is a machine learning web application that predicts the **estimated salary*
 
 ---
 
-📊 Input Parameters
+Input Parameters
 
 - **Job Title** (e.g., Data Scientist, Software Engineer)
 - **Experience (Years)** (0 to 40)
 - **Education Level** (e.g., Bachelor's, Master's, PhD)
 - **Location** (e.g., San Francisco, NY etc)
-
-  
